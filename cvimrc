@@ -1,0 +1,6 @@
+earchalias g = "google"
+let searchalias d = "duckduckgo"
+map ; :open d<Space>
+map <C-f> :tabnew d<Space>
+map <Space> :
+set noautofocus
